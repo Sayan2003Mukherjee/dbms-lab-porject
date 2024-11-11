@@ -1,5 +1,5 @@
 # dbms-lab-porject
-https://github.com/user-attachments/assets/e90d4954-e9fd-4e16-806d-be46b0e209c2
+https://github.com/user-attachments/assets/e90d4954-e9fd-4e16-806d-be46b0e209c2 (Video demo qualty has decresed during import and become little hezzy)
 ![db3](https://github.com/user-attachments/assets/05a9b253-11b0-46ae-8e3d-79b26197115b)
 ![db2](https://github.com/user-attachments/assets/f60ef424-317c-4ed6-8611-4511a2325f61)
 ![db1](https://github.com/user-attachments/assets/491ccf38-c5d8-4f5e-afce-1fc01ea61268)
