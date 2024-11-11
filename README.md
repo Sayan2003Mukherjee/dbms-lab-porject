@@ -10,3 +10,4 @@ https://github.com/user-attachments/assets/e90d4954-e9fd-4e16-806d-be46b0e209c2
 ![ss5](https://github.com/user-attachments/assets/37c4a06d-e329-4844-a6e9-7d8cde6f2f90)
 ![ss6](https://github.com/user-attachments/assets/39f27ff5-072f-4cd8-8300-cbaf54b144b4)
 https://drive.google.com/drive/folders/1IJPAnSyIbsoakPKiJ4tU9VFCeVKVoa9h?usp=sharing (all codes)
+[dbms lab project.pdf](https://github.com/user-attachments/files/17703469/dbms.lab.project.pdf) (Lab Report)
